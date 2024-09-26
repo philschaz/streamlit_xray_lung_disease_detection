@@ -1,0 +1,10 @@
+tensorflow
+opencv-python-headless
+matplotlib
+streamlit
+pandas
+numpy
+seaborn
+plotly
+openpyxl
+
